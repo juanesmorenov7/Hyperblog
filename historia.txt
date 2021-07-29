@@ -1,7 +1,12 @@
-historia.txt
 
-este es mi primer cambio, soy Juan esteban Moreno
 
-super nice esto
+Este es mi primer cambio.
+soy Juan esteban Moreno
 
-Hay que aprender git para ser un buen data scientist
+Objetivo:
+
+Aprender Git para ser un crack en la control de versiones.
+
+¿En que lo usaré primero?
+
+Para mis queries en SQL
