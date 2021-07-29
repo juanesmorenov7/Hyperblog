@@ -4,4 +4,4 @@ este es mi primer cambio, soy Juan esteban Moreno
 
 super nice esto
 
-hay que aprender a usar git para la control de versiones
+Hay que aprender git para ser un buen data scientist
