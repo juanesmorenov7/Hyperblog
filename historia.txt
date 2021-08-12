@@ -21,3 +21,5 @@ Puede ser un proyecto, pero más de BI que de mejora de operación.... a menos q
 esto no lo vamos a borrar 
 
 pero esto si lo vamos a borrar para volver a la línea anterior
+
+nuevo cambio
